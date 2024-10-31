@@ -1,3 +1,6 @@
+# This script will scan a txt file list of domain TLDs then send an alert to a Slack Channel for expiring domains based on the threshold you set.  
+# For more information please see the how-to-guide at https://www.daveherrell.com/powershell-basics-expiring-domain-slack-alerts/
+
 # Define the path to your input file containing domain names (one per line)
 $inputFilePath = "/Users/daveherrell/Desktop/domains.txt"
 
