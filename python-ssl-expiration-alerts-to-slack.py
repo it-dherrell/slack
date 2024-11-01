@@ -1,5 +1,5 @@
 # This script will read from a txt file of URLs, scan and validate the urls SSL Certificate.  Then send alerts to a designated Slack channel if any SSL certs are set to expire within the amount of days you set.
-# For more information please check out: 
+# For more information please check out: https://www.daveherrell.com/python-send-ssl-cert-expirations-to-slack/
 
 import socket
 import ssl
