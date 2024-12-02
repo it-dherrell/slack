@@ -62,9 +62,6 @@ Welcome to my **Slack PowerShell Scripts** section of the repository! This direc
 
 Contributions are welcome! If you have additional scripts or improvements, feel free to fork this repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Support
 
