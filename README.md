@@ -64,9 +64,6 @@ Welcome to the **Slack Integration Scripts** repository! This repository contain
 
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Support
 
