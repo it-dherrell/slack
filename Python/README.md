@@ -62,9 +62,6 @@ Welcome to my **Slack Python Scripts** section of the repository! This directory
 
 Contributions are welcome! If you have additional scripts or ideas for improvement, feel free to fork this repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
 
 ## Support
 
