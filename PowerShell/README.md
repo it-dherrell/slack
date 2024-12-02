@@ -51,11 +51,11 @@ Welcome to my **Slack PowerShell Scripts** section of the repository! This direc
 
 2. Follow any prompts or review the output for results.
 
-## Example Scripts
+## Scripts
 
-- **PostMessage.ps1**: Send a message to a specific channel or user.
-- **CreateChannel.ps1**: Create a new Slack channel.
-- **ManageUsers.ps1**: Automate user onboarding or offboarding.
+- **powershell-alert.ps1**: Basic Slack channel alert using PowerShell.
+- **powershell-domain-expiration-to-slack.ps1**: Create a new Slack alert for expiring domains.
+- **powershell-ssl-expiration-alerts-to-slack.ps1**: Automate sending SSL expiration alerts to Slack.
 
 ## Contributing
 
