@@ -57,6 +57,7 @@ Welcome to my **Slack PowerShell Scripts** section of the repository! This direc
 - **powershell-domain-expiration-to-slack.ps1**: Create a new Slack alert for expiring domains.
 - **powershell-ssl-expiration-alerts-to-slack.ps1**: Automate sending SSL expiration alerts to Slack.
 - **AD-lockout-Slack-Alert.ps1**: Script to send Slack alerts about Active Directory locked out users.
+- **PowerShell/slack-entraid-user-info.ps1**: PowerShell script to use with Slack and Entra ID to pull basic user information back to Slack. 
 
 ## Contributing
 
